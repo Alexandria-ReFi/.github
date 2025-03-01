@@ -10,4 +10,6 @@ Libraries and public knowledge repositories depend on government or donation-bas
 
 ## IMPACT: Why This Matters
 
-OpenLibro turns knowledge into a financially regenerative, censorship-resistant public good—combining AI, blockchain, and DeFi to ensure unrestricted, sustainable access to books and research worldwide.
+OpenLibro turns knowledge into a financially regenerative, censorship-resistant public good—combining AI, blockchain, and DeFi to ensure unrestricted, sustainable access to books and research worldwide. Users who curate, verify, or contribute insights earn library governance tokens or revenue shares from AI-generated services.
+
+Our Flow blockchain-based library ensures permanent, censorship-resistant access to knowledge, owned by the community, not corporations. And our AI Librarian agent provides open-access AI research assistance, helping users analyze books, summarize texts, and cross-reference knowledge in a decentralized way.
